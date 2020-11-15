@@ -1,0 +1,16 @@
+{
+    "version": "0.4.12",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bettercallshao/kut/releases/download/v0.4.12/kut_0.4.12_windows_amd64.zip",
+            "bin": [
+                "kut.exe",
+                "kutd.exe"
+            ],
+            "hash": "13ad45e7ff1508f1a07553ab515ddc8d7769815c8e52ed44cfb61a4998130224"
+        }
+    },
+    "homepage": "https://github.com/bettercallshao/kut",
+    "license": "MIT",
+    "description": "Run commands more easily"
+}
