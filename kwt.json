@@ -1,0 +1,16 @@
+{
+    "version": "0.5.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/bettercallshao/kwt/releases/download/v0.5.5/kwt_0.5.5_windows_amd64.zip",
+            "bin": [
+                "kwt.exe",
+                "kwtd.exe"
+            ],
+            "hash": "7f858fccb6f8a75d51bf9017a134edc36f18c5786f35be458377e25d2aafda30"
+        }
+    },
+    "homepage": "https://github.com/bettercallshao/kwt",
+    "license": "MIT",
+    "description": "Run commands easily"
+}
