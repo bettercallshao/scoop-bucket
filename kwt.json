@@ -1,13 +1,13 @@
 {
-    "version": "0.5.7",
+    "version": "0.5.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bettercallshao/kwt/releases/download/v0.5.7/kwt_0.5.7_windows_amd64.zip",
+            "url": "https://github.com/bettercallshao/kwt/releases/download/v0.5.8/kwt_0.5.8_windows_amd64.zip",
             "bin": [
                 "kwt.exe",
                 "kwtd.exe"
             ],
-            "hash": "0e69344504120f16f2ba79b042b36808ceffba53e8113489a7967bc4b4e6ba61"
+            "hash": "0d2e57f647322488f83aef49caf62edce818720a8338c74e6924012f054c88a1"
         }
     },
     "homepage": "https://github.com/bettercallshao/kwt",
